@@ -26,7 +26,7 @@ label{
     font-weight: 600;
 }
 
-#value{
+#val{
     margin-top: 20px;
     height: 50px;
     width: 100px;
@@ -40,7 +40,7 @@ label{
     color:  #556b2f;
 }
 #op{
-    /* margin-top: 20px; */
+    margin-top: 20px;
     height: 50px;
     width: 100px;
     /* margin-bottom: 20px; */
@@ -62,6 +62,8 @@ label{
     font-size: 3rem;
     margin-bottom: 20px;
     outline: none;
+    text-decoration: none;
+    
 }
 #sub:hover{
     background: #415223;
