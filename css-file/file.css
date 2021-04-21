@@ -73,3 +73,22 @@ label{
     text-transform: capitalize;
     color: #556b2f;
 }
+
+@media (max-width:500px){
+    html{
+        font-size: 50%;
+    }
+    label{
+        font-size: 3rem;
+    }
+    #ic{
+        width: 150px;
+        margin-bottom: 10px;
+    }
+    #ressult{
+        font-size: 2rem;
+    }
+    .contenor{
+        padding-bottom: 100px;
+    }
+}
